@@ -17,4 +17,6 @@ function overWriteBestCustomer(){
 
 const leastFavoriteCustomer = 'not nice person'
 
-function 
+function changeLeastFavoriteCustomer(){
+  leastFavoriteCustomer = 'someone worse'
+}
