@@ -20,3 +20,5 @@ const leastFavoriteCustomer = 'not nice person'
 function changeLeastFavoriteCustomer(){
   leastFavoriteCustomer = 'someone worse'
 }
+
+var favoriteCustomer;
