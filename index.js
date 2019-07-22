@@ -10,3 +10,4 @@ var bestCustomer;
 function setBestCustomer(){
   bestCustomer = 'not bob'
 }
+
