@@ -21,4 +21,8 @@ function changeLeastFavoriteCustomer(){
   leastFavoriteCustomer = 'someone worse'
 }
 
-var favoriteCustomer;
+var favoriteCustomer = 'me'
+
+function attemptTwoFavoriteCustomers(){
+  favoriteCustomer = 'not me'
+}
