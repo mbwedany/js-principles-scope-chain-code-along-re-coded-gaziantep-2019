@@ -15,3 +15,6 @@ function overWriteBestCustomer(){
   bestCustomer = 'maybe bob'
 }
 
+const leastFavoriteCustomer = 'not nice person'
+
+function 
